@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://elpddev.github.io/csb-7sgsq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://elpddev.github.io/csb-7sgsq/static/js/main.e77c2c86.chunk.js",
+    "main.js.map": "https://elpddev.github.io/csb-7sgsq/static/js/main.e77c2c86.chunk.js.map",
+    "runtime-main.js": "https://elpddev.github.io/csb-7sgsq/static/js/runtime-main.1eedf7f7.js",
+    "runtime-main.js.map": "https://elpddev.github.io/csb-7sgsq/static/js/runtime-main.1eedf7f7.js.map",
+    "static/js/2.b28e59f3.chunk.js": "https://elpddev.github.io/csb-7sgsq/static/js/2.b28e59f3.chunk.js",
+    "static/js/2.b28e59f3.chunk.js.map": "https://elpddev.github.io/csb-7sgsq/static/js/2.b28e59f3.chunk.js.map",
+    "index.html": "https://elpddev.github.io/csb-7sgsq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://elpddev.github.io/csb-7sgsq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b28e59f3.chunk.js.LICENSE.txt": "https://elpddev.github.io/csb-7sgsq/static/js/2.b28e59f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eedf7f7.js",
+    "static/js/2.b28e59f3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e77c2c86.chunk.js"
+  ]
+}
